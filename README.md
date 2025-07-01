@@ -22,4 +22,4 @@ Detectar e explicar visualmente a diferença entre vídeos reais e deepfakes por
   notebooks/Innvestigate.ipynb
 ```
 ## 🧠 Resultados
-O classificador SVM teve desempenho satisfatório em detecções entre classes reais/falsas com bons AUC e F1-Score, além de explicações visuais intuitivas.
+O classificador SVM teve desempenho razoável/ruim em detecções entre classes reais/falsas com baixo AUC e F1-Score.
