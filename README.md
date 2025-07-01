@@ -14,10 +14,12 @@ Detectar e explicar visualmente a diferença entre vídeos reais e deepfakes por
 
 ## ▶️ Como executar
 1. Instale os pacotes:
+```bash
   pip install -r requirements.txt
-
-2. Execute o notebook:
+```
+3. Execute o notebook:
+```bash
   notebooks/Innvestigate.ipynb
-   
+```
 ## 🧠 Resultados
 O classificador SVM teve desempenho satisfatório em detecções entre classes reais/falsas com bons AUC e F1-Score, além de explicações visuais intuitivas.
