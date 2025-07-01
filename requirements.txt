@@ -1,0 +1,5 @@
+efficientnet
+innvestigate
+opencv-python-headless
+pandas
+scikit-learn
